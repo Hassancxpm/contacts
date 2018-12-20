@@ -1,0 +1,16 @@
+{
+  "id": 3,
+  "firstName": "toto",
+  "lastName": "hover",
+  "image": "https://picsum.photos/700/700/?random",
+  "city": "Montpellier",
+  "country": "France",
+  "email": "t@k.com",
+  "phone": "0105040602",
+  "position": "CM",
+  "company": "La Fabrique",
+  "resume": "lorem ipsum",
+  "userTypes": [
+    "web"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2,
+  "firstName": "Pedro",
+  "lastName": "Elpatro",
+  "image": "https://picsum.photos/500/500/?random",
+  "city": "Montpellier",
+  "country": "France",
+  "email": "pedro.elpatro@lafabrique.com",
+  "position": "fermier",
+  "company": "La Fabrique du lait",
+  "resume": "lorem ipsum",
+  "userTypes": [
+    "farmer",
+    "milk",
+    "exposant"
+  ],
+  "stand": "blabla"
+}

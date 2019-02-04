@@ -2,9 +2,11 @@
   "teasers": [
     {
       "id": 1,
-      "firstName": "Emilie",
+      "firstName": "prout2",
       "lastName": "Hover",
-      "image": "https://picsum.photos/800/800/?random",
+      "image": "https://picsum.photos/900/900/?random",
+      "imageTablet": "https://picsum.photos/600/600/?random",
+      "imageMobile": "https://picsum.photos/400/400/?random",
       "city": "Paris",
       "country": "France",
       "address": "1336 my adress",
